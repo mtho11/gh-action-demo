@@ -5,6 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+    <h1>Hi There!</h1>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -16,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          React Demo
         </a>
       </header>
     </div>
